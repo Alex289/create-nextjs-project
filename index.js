@@ -14,7 +14,7 @@ if (!name || name.match(/[<>:"\/\\|?*\x00-\x1F]/)) {
 `);
 }
 
-const repoURL = 'https://github.com/JuzouSatoru2/NextJs-Boilerplate';
+const repoURL = 'https://github.com/Alex289/NextJs-Boilerplate';
 
 runCommand('git', ['clone', repoURL, name])
   .then(() => {

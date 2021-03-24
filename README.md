@@ -1,23 +1,23 @@
 <h1 align="center">Welcome to create-nextjs-project 👋</h1>
 <p>
-  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/JuzouSatoru2/create-nextjs-project">
-  <a href="https://github.com/JuzouSatoru2/create-nextjs-project#readme" target="_blank">
+  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Alex289/create-nextjs-project">
+  <a href="https://github.com/Alex289/create-nextjs-project#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/JuzouSatoru2/create-nextjs-project/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/Alex289/create-nextjs-project/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/JuzouSatoru2/create-nextjs-project/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/JuzouSatoru2/create-nextjs-project" />
+  <a href="https://github.com/Alex289/create-nextjs-project/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Alex289/create-nextjs-project" />
   </a>
 </p>
 
 > CLI to clone my NextJs app template.
 
-Boilerplate Repo can be found [here](https://github.com/JuzouSatoru2/NextJs-Boilerplate).
+Boilerplate Repo can be found [here](https://github.com/Alex289/NextJs-Boilerplate).
 
 Inspired by [w3cj](https://github.com/w3cj/create-express-api)
-### 🏠 [Homepage](https://github.com/JuzouSatoru2/create-nextjs-project#readme)
+### 🏠 [Homepage](https://github.com/Alex289/create-nextjs-project#readme)
 
 ## Install
 
@@ -38,13 +38,13 @@ create-nextjs-project [App name]
 
 ## Author
 
-👤 **JuzouSatoru2**
+👤 **Alex289**
 
-* Github: [@JuzouSatoru2](https://github.com/JuzouSatoru2)
+* Github: [@Alex289](https://github.com/Alex289)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JuzouSatoru2/create-nextjs-project/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Alex289/create-nextjs-project/issues).
 
 ## Show your support
 
@@ -52,8 +52,8 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [JuzouSatoru2](https://github.com/JuzouSatoru2).<br />
-This project is [MIT](https://github.com/JuzouSatoru2/create-nextjs-project/blob/main/LICENSE) licensed.
+Copyright © 2021 [Alex289](https://github.com/Alex289).<br />
+This project is [MIT](https://github.com/Alex289/create-nextjs-project/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
